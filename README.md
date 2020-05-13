@@ -14,6 +14,11 @@ This process was vigorously precise. Example: Website 1 was visited. The data in
 
 Explanation of Code Files <br>
 The cookie data was saved in various files and formats due to the complexity of the data collection. This led to a few different methods for analyzing the data files. 
-<br>For the fileReader.py all the data was combined into one file manually then processed (this did not seem the most efficient). 
+<br>fileReader.py all the data was combined into one file manually then processed (this did not seem the most efficient).<br>
+Data_manipulation.py was an attempt at processing the data better. This code required the data to be manually combined into the 5 groups for processing. (getting better I think) <br>
+Data_manipulation_V2.py was designed to process each file individually. 
 
-<br>Data_manipulation.py was an attempt at processing the data better. 
+<br>Data Being Processed<br>
+One of the codes' main properties is converting the Unix timestamps data of cookie attributes into human readable time. The calculation of whether the cookies were persistent or not was also calculated. Persistent cookies are cookies which last longer than the browsing session. The persistency of a cookie is determined by the expires attribute. If the expires attribute is set to a time in the future than the cookie is persistent. If the cookie was a persitent cookie, then the lifetime of the cookie was also calculated by the difference of (expired time - creation time). 
+
+<br>NOTE: The research and development of this code is far from complete.
