@@ -1,0 +1,10 @@
+id,baseDomain,originAttributes,name,value,host,path,expiry,lastAccessed,creationTime,isSecure,isHttpOnly,inBrowserElement,sameSite,rawSameSite
+1,google.com,"",1P_JAR,2019-12-12-23,.google.com,/,1578784203,1576192446412000,1576192204305000,0,0,0,0,0
+2,google.com,"",NID,193=S8nTpceL-GjTD5PPgR8EmEshpT5Duz8MUrXhJFB4tDNMp-3L7-jV1waorcu732qXlto2Y_gpbis1_nQs_vRgoihxm8uWthoMSVWeEOyQKuFCIaLKbgDc2JOagIE7ifJ1ECV_gH9ozSLMg9kkP2mdRxFenOI1Iq7E4zL5ARb5Zwo,.google.com,/,1592003403,1576192446412000,1576192204305001,0,1,0,0,0
+3,countingdownto.com,"",__cfduid,d7857e8cb352889cfe4e20961578ce5f91576192203,.countingdownto.com,/,1578784203,1576192204635000,1576192204635000,0,1,0,0,0
+4,wikipedia.org,"",WMF-Last-Access,12-Dec-2019,www.wikipedia.org,/,1578916800,1576192293425000,1576192293425000,1,1,0,0,0
+5,wikipedia.org,"",WMF-Last-Access-Global,12-Dec-2019,.wikipedia.org,/,1578916800,1576192293425000,1576192293425001,1,1,0,0,0
+6,cambridge.org,"",__cfduid,d6d6b80750b47cb06a69b4304f1c2e5861576192317,.cambridge.org,/,1578784317,1576192318373000,1576192318373000,0,1,0,0,0
+7,youtube.com,"",VISITOR_INFO1_LIVE,q3D_bzWWnbs,.youtube.com,/,1591744445,1576192446272000,1576192446272000,1,1,0,0,0
+8,youtube.com,"",GPS,1,.youtube.com,/,1576194245,1576192446272000,1576192446272002,0,0,0,0,0
+9,jwpsrv.com,"",JW_GCID,1vkh98y1fn0n,.jwpsrv.com,/g,1591960447,1576192447867000,1576192447867000,0,0,0,0,0

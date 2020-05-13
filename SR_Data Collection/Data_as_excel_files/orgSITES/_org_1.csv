@@ -1,0 +1,7 @@
+id,baseDomain,originAttributes,name,value,host,path,expiry,lastAccessed,creationTime,isSecure,isHttpOnly,inBrowserElement,sameSite,rawSameSite
+1,google.com,"",1P_JAR,2019-12-13-00,.google.com,/,1578789075,1576197076067000,1576197076067000,0,0,0,0,0
+2,google.com,"",NID,193=GNLpAeTIYVXFwxVh8-4OTpKJIuvcf6twTdggrrPzGjDuZMPSdJbmRQvwcr0bNyq7EdTvA7_a0NBpfg9jwhg0jaqR50LRYtS5CYMQTjk76OfpVFa9LLLUCpQipabhRUf4yr0F5kN1-DCcSRTfU-dMf6i3ovUtbOV2BgXZKBwamdg,.google.com,/,1592008275,1576197076068000,1576197076068000,0,1,0,0,0
+3,nremt.org,"",_ga,GA1.2.1486217376.1576197076,.nremt.org,/,1639269076,1576197076303000,1576197076303000,0,0,0,0,0
+4,nremt.org,"",_gid,GA1.2.1065186409.1576197076,.nremt.org,/,1576283476,1576197076305000,1576197076305000,0,0,0,0,0
+5,nremt.org,"",_gat,1,.nremt.org,/,1576197136,1576197076358000,1576197076358000,0,0,0,0,0
+6,countingdownto.com,"",__cfduid,d4c86a978dbf34280b4ce6f7387a30a371576197076,.countingdownto.com,/,1578789076,1576197077473000,1576197077473000,0,1,0,0,0
